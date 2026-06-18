@@ -22,7 +22,7 @@ A minimalist iOS app for tracking daily carb intake. Type what you ate in plain 
 
 ## 🔨 Currently Building
 
-**Cadence** — [details coming soon]
+**Cadence** — Cadence is an iOS health tracking app built in SwiftUI that helps users log and monitor their daily health metrics and symptoms.****
 
 ---
 
