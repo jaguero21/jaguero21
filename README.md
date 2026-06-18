@@ -1,83 +1,52 @@
-# 👋 Hello, I'm James Aguero
+# Hi, I'm James Aguero 👋
 
-I'm a solo indie developer who made the leap from commercial construction leadership to mobile app development. CarpeCarb, now live on the App Store, is proof that it's never too late to build something new — in every sense of the word.
-
----
-
-## 🚀 About Me
-
-After years building in the construction industry, I discovered my passion for development and decided to go all-in. I'm now focused on creating mobile apps that solve real problems. I believe in learning by doing, shipping products, and iterating based on user feedback. My journey from construction to coding has taught me the importance of discipline, attention to detail, and delivering value.
+I'm a mobile developer who transitioned from commercial construction leadership into software. I ship iOS apps — from idea to App Store.
 
 ---
 
-## 💻 Skills & Technologies
+## 🚀 Featured Project
 
-### Mobile Development
-- **Flutter** (primary)
-- **Swift** (iOS native)
-- **Python** (backend/tooling)
+### [CarpeCarb](https://apps.apple.com/us/app/carpecarb/id6746899061) — Live on the App Store
 
-### Tools & Platforms
-- Xcode
-- Firebase
-- Git / GitHub
-- App Store Connect
-- RESTful APIs
+A minimalist iOS app for tracking daily carb intake. Type what you ate in plain language and get instant, AI-powered carb counts with cited sources.
 
----
+**Tech:** Flutter · Swift · Firebase Cloud Functions · Perplexity API (sonar-pro) · Apple HealthKit · Siri App Intents · Home Screen Widget · Google Cloud Secret Manager
 
-## 📂 Projects & Portfolio
-
-### Featured Projects
-
-**CarpeCarb** · [App Store](https://apps.apple.com/app/carpecarb)
-- A mobile app for tracking and managing carbohydrate intake
-- Built with Flutter and Swift for iOS
-- Now live on the App Store with active users
-
-> **[View all projects →](https://github.com/jaguero21?tab=repositories)**
+- AI-powered natural language food lookup — no manual database searching
+- Carb data synced to and read from Apple HealthKit
+- Hands-free logging via Siri App Intents
+- Home screen widget for at-a-glance daily totals
+- Backend API proxy via Firebase Cloud Functions (API keys never touch the client)
 
 ---
 
-## 💼 Experience
+## 🔨 Currently Building
 
-**Construction Industry Leadership**
-- Transitioned from commercial construction background
-- Brings discipline, project management, and attention to detail to software development
+**Cadence** — [details coming soon]
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguero21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguero21&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect
-
-- **GitHub** · [@jaguero21](https://github.com/jaguero21)
-- **LinkedIn** · [James Aguero](https://linkedin.com/in/james-aguero-28381b223)
-- **App Store** · [CarpeCarb](https://apps.apple.com/app/carpecarb)
+| | |
+|---|---|
+| **Mobile** | Flutter (Dart), Swift, SwiftUI |
+| **Backend** | Firebase Cloud Functions (Node.js) |
+| **AI / APIs** | Perplexity API, RESTful APIs |
+| **iOS Native** | HealthKit, App Intents, WidgetKit, App Groups |
+| **Infra** | Google Cloud Secret Manager, GitHub Actions |
+| **Tools** | Xcode, Neovim, Git, App Store Connect |
 
 ---
 
-## 🌱 Currently Learning
+## 📊 Stats
 
-- Advanced iOS development techniques
-- Machine learning for health/nutrition apps
-- App monetization strategies
-
----
-
-## 📝 Latest Activity
-
-- 🔭 Working on exciting new projects
-- 💬 Open to collaboration and mentoring
-- 📚 Contributing to open-source communities
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaguero21&show_icons=true&theme=radical)](https://github.com/jaguero21)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguero21&layout=compact&theme=radical)](https://github.com/jaguero21)
 
 ---
 
-**Thanks for visiting my profile! Feel free to reach out and connect.** ⭐
+## 🔗 Connect
 
+- [LinkedIn](https://linkedin.com/in/james-aguero-28381b223)
+- [CarpeCarb on the App Store](https://apps.apple.com/us/app/carpecarb/id6746899061)
