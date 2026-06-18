@@ -6,7 +6,7 @@ I'm a mobile developer who transitioned from commercial construction leadership 
 
 ## 🚀 Featured Project
 
-### [CarpeCarb](https://apps.apple.com/us/app/carpecarb/id6746899061) — Live on the App Store
+### [CarpeCarb](https://apps.apple.com/us/app/carpecarb/id6759311106) — Live on the App Store
 
 A minimalist iOS app for tracking daily carb intake. Type what you ate in plain language and get instant, AI-powered carb counts with cited sources.
 
@@ -49,4 +49,4 @@ A minimalist iOS app for tracking daily carb intake. Type what you ate in plain 
 ## 🔗 Connect
 
 - [LinkedIn](https://linkedin.com/in/james-aguero-28381b223)
-- [CarpeCarb on the App Store](https://apps.apple.com/us/app/carpecarb/id6746899061)
+- [CarpeCarb on the App Store](https://apps.apple.com/us/app/carpecarb/id6759311106)
