@@ -1,4 +1,4 @@
-# Hi, I'm James Aguero 👋
+# Hi, I'm James Aguero 
 
 I'm a mobile developer who transitioned from commercial construction leadership into software. I ship iOS apps — from idea to App Store.
 
